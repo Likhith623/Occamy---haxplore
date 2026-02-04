@@ -12,7 +12,7 @@
 
 **A comprehensive field force management solution for agricultural nutraceutical companies to track field officers, monitor sales activities, and gain actionable insights across rural India.**
 
-[🚀 Live Demo](#demo) • [📖 Documentation](#features) • [🛠️ Installation](#installation) • [📊 Screenshots](#screenshots)
+[🚀 Live Demo](https://occamy-tracker-344002794323.asia-south1.run.app/) • [📂 Repository](https://github.com/Likhith623/Occamy---haxplore) • [🎬 Video Demo](https://drive.google.com/file/d/1sCKTheSwR8lpszZ7zOy_eNs3WjyrEUmL/view?usp=sharing) • [🛠️ Installation](#installation)
 
 </div>
 
